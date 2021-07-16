@@ -26,10 +26,10 @@ O primeiro mês da imersão será focado em desenvolvimento front-end 💖
 
 O conteúdo para ser estudado:
 
-- [x] HTML5 e benefícios de uma estrutura semântica
+- [ ] HTML5 e benefícios de uma estrutura semântica
 - [ ] CSS3 (flexbox, grid e etc)
 - [ ] Javascript (foco em ES6+)
-- [x] Acessibilidade na web
+- [ ] Acessibilidade na web
 
 **Mês 02**
 
@@ -81,16 +81,16 @@ Para isso será necessário realizar a leitura da documentação (eu sei, eu sei
 Material de estudo:
 
 - HTML5
-  - [x] Leitura da documentação sobre os elementos HTML: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
+  - [ ] Leitura da documentação sobre os elementos HTML: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
 - CSS
-  - [x] Leitura sobre CSS (esse site é MARAVILHOSO):
+  - [ ] Leitura sobre CSS (esse site é MARAVILHOSO):
         https://css-tricks.com/
 
 **Desafios:**
 
 Para os dias de prática dessa semana teremos dois desafios:
 
-- [x] Para dar uma aquecida nos dedinhos: https://www.devchallenge.com.br/challenges/5f14fad2130a5d78f89d9642/details
+- [ ] Para dar uma aquecida nos dedinhos: https://www.devchallenge.com.br/challenges/5f14fad2130a5d78f89d9642/details
 
 O site **DevChallenge** fornece todas as instruções para que possamos realizar os desafios 🥰
 
@@ -105,12 +105,12 @@ O objetivo da semana dois será conhecer as diretrizes de acessibilidade e come�
 Material de estudo:
 
 - Acessibilidade
-  - [x] Diretrizes de acessibilidade para conteúdo web:
+  - [ ] Diretrizes de acessibilidade para conteúdo web:
         https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/
-  - [x] Guia WCAG (consulta rápida):
+  - [ ] Guia WCAG (consulta rápida):
         https://guia-wcag.com/
 - JavaScript
-  - [x] Guia JavaScript:
+  - [ ] Guia JavaScript:
         https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
 
 **Desafios:**
@@ -128,7 +128,7 @@ Bom, na última semana deu para dar aquela lida básica no guia do JS e fazer al
 Material de estudo:
 
 - JavaScript (vídeo aulas)
-- [x] Curso do anjo vulgo Guanabara:
+- [ ] Curso do anjo vulgo Guanabara:
       https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
 
 **Desafios:**
