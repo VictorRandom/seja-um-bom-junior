@@ -26,9 +26,9 @@ O primeiro mês da imersão será focado em desenvolvimento front-end 💖
 
 O conteúdo para ser estudado:
 
-- [ ] HTML5 e benefícios de uma estrutura semântica
-- [ ] CSS3 (flexbox, grid e etc)
-- [ ] Javascript (foco em ES6+)
+- [x] HTML5 e benefícios de uma estrutura semântica
+- [x] CSS3 (flexbox, grid e etc)
+- [x] Javascript (foco em ES6+)
 - [ ] Acessibilidade na web
 
 **Mês 02**
